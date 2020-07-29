@@ -3,7 +3,7 @@ SQL murder mystery modified for the `tidyverse`
 
 There's been a murder in the tidyverse! A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a **murder** that occurred sometime on **Jan.15, 2018** and that it took place in **dplyr City**. 
 
-Install this package by typing `remotes::install_packages("speegled/dplyrmurdermystery")`. Data is **not** lazy loaded, because the only reason to load the package is if you want to solve the murder mystery. The data is about 1MB.
+Install this package by typing `remotes::install_github("speegled/dplyrmurdermystery")`. Data is **not** lazy loaded, because the only reason to load the package is if you want to solve the murder mystery. The data is about 1MB.
 
 This project started as a clone of https://mystery.knightlab.com/, with **SQL City** changed to **dplyr City**, which itself was inspired by a murder in Terminal City https://github.com/veltman/clmystery. 
 
