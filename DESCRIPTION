@@ -5,6 +5,7 @@ Version: 0.1.0
 Author: Darrin Speegle and Bryan Clair
 Maintainer: Darrin Speegle <speegled@slu.edu>
 Description: This package contains the data for the dplyr murder mystery.
+Depends: R (>= 3.5.0)
 License: MIT
 Encoding: UTF-8
 LazyData: false
