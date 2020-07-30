@@ -2,7 +2,7 @@
 #'
 #' There has been a murder in dplyr City! All you know is that it took place on January 15, 2018 in dplyr City. All
 #' the clues that you will need to solve the murder are in the data in this package. Use your dplyr skillz to solve
-#' the murder mystery, have fun and no spoilers!
+#' the murder mystery, have fun, no spoilers!
 #'
 #' The dplyr murder mystery is a murder mystery not entirely unlike the SQL murder mystery listed in the source. The
 #' primary difference is that we added R based easter eggs. Have fun looking for them!
