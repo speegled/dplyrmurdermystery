@@ -4,3 +4,4 @@
 .Ruserdata
 *.Rproj
 R/things_added.R
+my_c*
