@@ -7,7 +7,7 @@
 \format{
 A data frame with 185 observations of 5 variables
 \describe{
-  \item{id}{Gum membership ID. Consistent with `get_fit_now_checkin`}
+  \item{membership_id}{Gym membership ID. Consistent with `get_fit_now_checkin`}
   \item{person_id}{Person ID. Consistent across all data frames.}
   \item{name}{name of gym member}
   \item{membership_start_date}{Date of the Start date of membership yyyymmdd}

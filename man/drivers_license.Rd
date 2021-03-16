@@ -7,7 +7,7 @@
 \format{
 A data frame with 10007 observations of 9 variables
 \describe{
-  \item{id}{Person id. Consistent across data frames}
+  \item{license_id}{Drivers License id; not the same as person_id in other data}
   \item{age}{Age in years}
   \item{height}{height in inches}
   \item{eye_color}{Eye color}

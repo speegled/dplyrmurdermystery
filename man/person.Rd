@@ -7,7 +7,7 @@
 \format{
 A data frame with 10011 observations of 6 variables
 \describe{
-  \item{id}{Person id. Consistent across data frames}
+  \item{person_id}{Person id. Consistent across data frames}
   \item{name}{Name of person}
   \item{license_id}{Drivers license of person}
   \item{address_number}{Street number}
